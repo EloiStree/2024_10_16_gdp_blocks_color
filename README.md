@@ -10,4 +10,5 @@ Version Unity3D: https://github.com/EloiStree/2024_10_16_upm_blocks_color
 While doing the NES, I fell on that:   
 [<img width="523" height="137" alt="image" src="https://github.com/user-attachments/assets/a46f68d3-c0af-4f7c-95a7-c3bc4ab38ae1" />](http://www.romdetectives.com/Wiki/index.php?title=NES_Palette)  
 http://www.romdetectives.com/Wiki/index.php?title=NES_Palette  
+Game Color result: https://youtu.be/FWAoaoHDeM0?t=708
 
