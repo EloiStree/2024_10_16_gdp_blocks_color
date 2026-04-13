@@ -26,3 +26,38 @@ In Godot:
 
 
 
+
+
+Color used:
+``` gdscript
+const COLOR_01_YELLOW :Color = Color("ffff00ff")
+const COLOR_02_PURPLE:Color = Color("ff00ffff")
+const COLOR_03_BLUE_CYAN:Color = Color("00ffffff")
+const COLOR_04_RED:Color = Color("ff0000ff")
+const COLOR_05_GREEN:Color = Color("#00ff00")
+const COLOR_06_BLUE:Color = Color("#0000ff")
+const COLOR_11_LIGHT_PURPLE:Color = Color("ca75d8ff")    
+const COLOR_12_DARK_PURPLE:Color = Color("ab3ac0ff")
+const COLOR_13_BLUE_PURPLE:Color = Color("754bc6ff")
+const COLOR_14_LIGHT_BLUE_CYAN:Color = Color("91f6feff")
+const COLOR_15_DARK_BLUE_CYAN:Color = Color("26cfe8ff")
+const COLOR_16_LIGHT_BLUE:Color = Color("24b0ffff")
+const COLOR_21_PINK:Color = Color("ffcee6ff")
+const COLOR_22_HOT_PINK:Color = Color("ff70a3ff")
+const COLOR_23_LIGHT_RED:Color = Color("fe5348ff")
+const COLOR_24_GREEN_PISTACHE:Color = Color("9bda57ff")
+const COLOR_25_GREEN:Color = Color("5bc461ff")
+const COLOR_26_GREEN_EMERALD:Color = Color("24aa9cff")
+const COLOR_31_LIGHT_YELLOW:Color = Color("ffff4cff")
+const COLOR_32_ORANGE:Color = Color("feab24ff")
+const COLOR_33_RED_ORANGE:Color = Color("ff6836ff")
+const COLOR_34_WHITE_GREY:Color = Color("e8f1f4ff")
+const COLOR_35_BLUE_GREY:Color = Color("8ba5b1ff")
+const COLOR_36_DARK_GREY:Color = Color("596c78ff")
+const COLOR_41_SAND_YELLOW:Color = Color("ffe69dff")
+const COLOR_42_LIGHT_ORANGE:Color = Color("faad55ff")
+const COLOR_43_BROWN:Color = Color("8d655cff")
+const COLOR_44_WHITE:Color = Color("ffffffff")
+const COLOR_45_GREY:Color = Color("b6b6b6ff")
+const COLOR_46_BLACK:Color = Color("2c3030ff")
+```
