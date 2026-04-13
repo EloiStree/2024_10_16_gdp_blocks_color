@@ -1,9 +1,18 @@
 Version Unity3D: https://github.com/EloiStree/2024_10_16_upm_blocks_color
 
 
+
+**Add to a git project**:
 ```
 git submodule add https://github.com/EloiStree/2024_10_16_gdp_blocks_color.git addons/2024_10_16_gdp_blocks_color
 ```
+
+**Add to a non git project**:
+```
+git clone https://github.com/EloiStree/2024_10_16_gdp_blocks_color.git addons/2024_10_16_gdp_blocks_color
+```
+
+----------
 
 # Blocks Color
 
