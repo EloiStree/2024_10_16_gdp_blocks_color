@@ -1,0 +1,32 @@
+[gd_scene format=3 uid="uid://ctba0ypdh7ri3"]
+
+[ext_resource type="Script" uid="uid://cqdulj30k0774" path="res://addons/2024_10_16_gdp_blocks_color/script/color_blocks_rotate_show.gd" id="1_4gcg4"]
+[ext_resource type="PackedScene" uid="uid://bugjqxg5lf6pf" path="res://addons/2024_10_16_gdp_blocks_color/scene/element/blocks_color.tscn" id="1_5nbnw"]
+[ext_resource type="PackedScene" uid="uid://btcuo0txccuyh" path="res://addons/2024_10_16_gdp_blocks_color/scene/element/block_color_lit.tscn" id="3_5x8d4"]
+[ext_resource type="PackedScene" uid="uid://2tspkc73rvcc" path="res://addons/2024_10_16_gdp_blocks_color/scene/element/block_color_unlit.tscn" id="4_4op0d"]
+
+[node name="DemoBlocks" type="Node3D" unique_id=1151627741]
+
+[node name="Node3D" type="Node3D" parent="." unique_id=1558603629 node_paths=PackedStringArray("what_to_rotate")]
+script = ExtResource("1_4gcg4")
+what_to_rotate = NodePath(".")
+
+[node name="Blocks Color2" type="Node3D" parent="Node3D" unique_id=673683776]
+
+[node name="Blocks Color" parent="Node3D/Blocks Color2" unique_id=1647711849 instance=ExtResource("1_5nbnw")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.09957309, 5.1652086e-07, -0.09957015)
+
+[node name="DirectionalLight3D" type="DirectionalLight3D" parent="." unique_id=1945327224]
+transform = Transform3D(0.3977725, -0.14754194, 0.90554315, -0.6392935, 0.66336924, 0.38890266, -0.6580889, -0.7336026, 0.1695474, 0, 4.890991, 5.3652344)
+light_energy = 0.398
+light_indirect_energy = 1.241
+directional_shadow_fade_start = 0.525
+directional_shadow_max_distance = 4.3
+directional_shadow_pancake_size = 8.2
+sky_mode = 1
+
+[node name="Block Color Lit" parent="." unique_id=1620655474 instance=ExtResource("3_5x8d4")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.814331, 0, -1.6436768)
+
+[node name="Block Color Unlit" parent="." unique_id=200363290 instance=ExtResource("4_4op0d")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.9885254, 0, -1.6436768)
