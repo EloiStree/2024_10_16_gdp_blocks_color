@@ -22,9 +22,7 @@ It is basically a set of materials based on the colors from the application:
 | <img width="256" height="256" src="https://github.com/user-attachments/assets/51bb29ff-c178-46a3-9240-7bb46e581965" /> | <img width="256" height="256" src="https://github.com/user-attachments/assets/aa38668b-6db0-47db-8660-1c418671555d" /> |  
 
 In Godot:  
-<img width="1147" height="644" alt="image" src="https://github.com/user-attachments/assets/52a05c79-b979-4322-8af2-ad46eac748c5" />
-
-
+<img width="1140" height="641" alt="image" src="https://github.com/user-attachments/assets/eef7acf6-4135-4b3a-89d5-b031c7d9dbf7" />
 
 
 
