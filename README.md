@@ -12,6 +12,9 @@ git submodule add https://github.com/EloiStree/2024_10_16_gdp_blocks_color.git a
 git clone https://github.com/EloiStree/2024_10_16_gdp_blocks_color.git addons/2024_10_16_gdp_blocks_color
 ```
 
+Install from Godot Lib:   
+https://godotengine.org/asset-library/asset/5041   
+
 ----------
 
 # Blocks Color
@@ -68,3 +71,7 @@ const COLOR_44_WHITE:Color = Color("ffffffff")
 const COLOR_45_GREY:Color = Color("b6b6b6ff")
 const COLOR_46_BLACK:Color = Color("2c3030ff")
 ```
+
+[<img width="1165" height="487" alt="image" src="https://github.com/user-attachments/assets/83724750-127d-4929-a4f5-fb356aefd5eb" />](https://godotengine.org/asset-library/asset/5041)   
+https://godotengine.org/asset-library/asset/5041   
+
