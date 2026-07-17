@@ -6,6 +6,44 @@
 [ext_resource type="PackedScene" uid="uid://2tspkc73rvcc" path="res://addons/2024_10_16_gdp_blocks_color/scene/element/block_color_unlit.tscn" id="4_4op0d"]
 [ext_resource type="Script" uid="uid://1o7p2facmacq" path="res://addons/2024_10_16_gdp_blocks_color/script/blocks_color_how_to_use_code.gd" id="5_4op0d"]
 [ext_resource type="Resource" uid="uid://8g7ebq01ua4s" path="res://addons/2024_10_16_gdp_blocks_color/resource/block_color_group.tres" id="6_5e51m"]
+[ext_resource type="Texture2D" uid="uid://chljxywwkgybj" path="res://addons/2024_10_16_gdp_blocks_color/assets/reference/blocks_color_256x256.png" id="7_qdh1f"]
+[ext_resource type="Script" uid="uid://btcfqo345oatc" path="res://addons/2024_10_16_gdp_blocks_color/script/block_color_join_tres_as_text.gd" id="8_hbbtu"]
+[ext_resource type="Material" uid="uid://demp460gibrjj" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_11_light_purple.tres" id="9_bow7w"]
+[ext_resource type="Material" uid="uid://xv6qho1ecwfk" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_12_dark_purple.tres" id="10_rbu3a"]
+[ext_resource type="Material" uid="uid://bkga6nakhddyq" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_13_blue_purple.tres" id="11_o331c"]
+[ext_resource type="Material" uid="uid://mdxm73bdu34a" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_14_light_blue_cyan.tres" id="12_wm08r"]
+[ext_resource type="Material" uid="uid://fgkl07h6ualr" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_15_dark_blue_cyan.tres" id="13_ntk3p"]
+[ext_resource type="Material" uid="uid://benkh1nmdmmmy" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_16_light_blue.tres" id="14_qdh1f"]
+[ext_resource type="Material" uid="uid://cpmoddk7mh0mn" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_21_pink.tres" id="15_s7kc2"]
+[ext_resource type="Material" uid="uid://dfu78pvga8xcf" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_22_hot_pink.tres" id="16_s8xes"]
+[ext_resource type="Material" uid="uid://cpa1tbn3jw6uo" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_23_ligh_red.tres" id="17_a20h8"]
+[ext_resource type="Material" uid="uid://b4apktis1jy2i" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_24_green_pistache.tres" id="18_rhwqj"]
+[ext_resource type="Material" uid="uid://dtipbtthtpa3s" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_25_green.tres" id="19_22b2n"]
+[ext_resource type="Material" uid="uid://bsxq2kxu7p1se" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_26_green_emerald.tres" id="20_o16qu"]
+[ext_resource type="Material" uid="uid://rc8aw552rnxn" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_31_light_yellow.tres" id="21_8idci"]
+[ext_resource type="Material" uid="uid://cv8pmvsbnlk27" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_32_orange.tres" id="22_0fx6f"]
+[ext_resource type="Material" uid="uid://pn43cmgkdolu" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_33_red_orange.tres" id="23_dkwpk"]
+[ext_resource type="Material" uid="uid://17w1xehrdy00" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_34_white_grey.tres" id="24_2b5g7"]
+[ext_resource type="Material" uid="uid://djm3igi10ul23" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_35_blue_grey.tres" id="25_em007"]
+[ext_resource type="Material" uid="uid://1d7gsbdhiiwu" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_36_dark_grey.tres" id="26_kpn1w"]
+[ext_resource type="Material" uid="uid://chq8v5vmxh55l" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_41_sand_yellow.tres" id="27_5w33i"]
+[ext_resource type="Material" uid="uid://bwikwllvekp6s" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_42_light_orange.tres" id="28_jvsps"]
+[ext_resource type="Material" uid="uid://ba5tht4fdhkce" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_43_brown.tres" id="29_hx2t8"]
+[ext_resource type="Material" uid="uid://6mmjnssygqp4" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_44_white.tres" id="30_5jads"]
+[ext_resource type="Material" uid="uid://udn1nv1t5r75" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_45_grey.tres" id="31_5dsmv"]
+[ext_resource type="Material" uid="uid://diq8loxakgr03" path="res://addons/2024_10_16_gdp_blocks_color/material/unlit/mat_unlit_46_black.tres" id="32_do5wm"]
+[ext_resource type="Material" uid="uid://5atgjfrfiiyf" path="res://addons/2024_10_16_gdp_blocks_color/material/lit/mat_lit_01_yellow.tres" id="33_tjqyx"]
+[ext_resource type="Material" uid="uid://biv7r7eb6nid" path="res://addons/2024_10_16_gdp_blocks_color/material/lit/mat_lit_02_purple.tres" id="34_rr6e3"]
+[ext_resource type="Material" uid="uid://cubhihd8ss3q2" path="res://addons/2024_10_16_gdp_blocks_color/material/lit/mat_lit_03_blue_cyan.tres" id="35_2c4i1"]
+[ext_resource type="Material" uid="uid://bhxq3sealchja" path="res://addons/2024_10_16_gdp_blocks_color/material/lit/mat_lit_04_red.tres" id="36_qsfs3"]
+[ext_resource type="Material" uid="uid://k4emqdoiqkn" path="res://addons/2024_10_16_gdp_blocks_color/material/lit/mat_lit_05_green.tres" id="37_108tv"]
+[ext_resource type="Material" uid="uid://p034ixaicspl" path="res://addons/2024_10_16_gdp_blocks_color/material/lit/mat_lit_06_blue.tres" id="38_h6tar"]
+[ext_resource type="Material" uid="uid://f0lxc1bmy38r" path="res://addons/2024_10_16_gdp_blocks_color/material/lit/mat_lit_51_brown_dark.tres" id="39_qdh1f"]
+[ext_resource type="Material" uid="uid://cqr34yqsuy2gr" path="res://addons/2024_10_16_gdp_blocks_color/material/lit/mat_lit_52_brown_light.tres" id="40_s7kc2"]
+[ext_resource type="Material" uid="uid://dq6vrc373scwb" path="res://addons/2024_10_16_gdp_blocks_color/material/lit/mat_lit_53_brown_orange.tres" id="41_s8xes"]
+[ext_resource type="Material" uid="uid://v756k4i60tpc" path="res://addons/2024_10_16_gdp_blocks_color/material/lit/mat_lit_54_green_dark.tres" id="42_a20h8"]
+[ext_resource type="Material" uid="uid://c6g3y47c6fmt7" path="res://addons/2024_10_16_gdp_blocks_color/material/lit/mat_lit_55_green_forest.tres" id="43_rhwqj"]
+[ext_resource type="Material" uid="uid://bnt454f4j0b5s" path="res://addons/2024_10_16_gdp_blocks_color/material/lit/mat_lit_56_black_full.tres" id="44_22b2n"]
 
 [sub_resource type="BoxMesh" id="BoxMesh_5x8d4"]
 
@@ -13,6 +51,14 @@
 background_mode = 1
 background_color = Color(0.99947315, 0.7694286, 0.5757936, 1)
 ambient_light_source = 1
+
+[sub_resource type="StandardMaterial3D" id="StandardMaterial3D_q5pvf"]
+shading_mode = 0
+albedo_texture = ExtResource("7_qdh1f")
+texture_filter = 0
+
+[sub_resource type="QuadMesh" id="QuadMesh_t2b8t"]
+material = SubResource("StandardMaterial3D_q5pvf")
 
 [node name="DemoBlocks" type="Node3D" unique_id=1151627741]
 
@@ -29,7 +75,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -0.09957309, 5.1652086e-07, -
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 7.814331, 0, -1.6436768)
 
 [node name="Block Color Unlit" parent="." unique_id=200363290 instance=ExtResource("4_4op0d")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.9885254, 0, -1.6436768)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0.9751148, -0.013410091, -1.6436768)
 
 [node name="HowToUseCode" type="Node3D" parent="." unique_id=230424359 node_paths=PackedStringArray("label", "mesh_material")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 1.0244141, 0, -0.17480469)
@@ -70,3 +116,11 @@ directional_shadow_fade_start = 0.525
 directional_shadow_max_distance = 4.3
 directional_shadow_pancake_size = 8.2
 sky_mode = 1
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="." unique_id=380583753]
+transform = Transform3D(-1, 0, 8.742278e-08, 0, 1, 0, -8.742278e-08, 0, -1, 0, 10.282555, -2.2019768)
+mesh = SubResource("QuadMesh_t2b8t")
+
+[node name="ListColorAsFFFFFF" type="Node" parent="." unique_id=1724073488]
+script = ExtResource("8_hbbtu")
+array_color = Array[StandardMaterial3D]([ExtResource("9_bow7w"), ExtResource("10_rbu3a"), ExtResource("11_o331c"), ExtResource("12_wm08r"), ExtResource("13_ntk3p"), ExtResource("14_qdh1f"), ExtResource("15_s7kc2"), ExtResource("16_s8xes"), ExtResource("17_a20h8"), ExtResource("18_rhwqj"), ExtResource("19_22b2n"), ExtResource("20_o16qu"), ExtResource("21_8idci"), ExtResource("22_0fx6f"), ExtResource("23_dkwpk"), ExtResource("24_2b5g7"), ExtResource("25_em007"), ExtResource("26_kpn1w"), ExtResource("27_5w33i"), ExtResource("28_jvsps"), ExtResource("29_hx2t8"), ExtResource("30_5jads"), ExtResource("31_5dsmv"), ExtResource("32_do5wm"), ExtResource("33_tjqyx"), ExtResource("34_rr6e3"), ExtResource("35_2c4i1"), ExtResource("36_qsfs3"), ExtResource("37_108tv"), ExtResource("38_h6tar"), ExtResource("39_qdh1f"), ExtResource("40_s7kc2"), ExtResource("41_s8xes"), ExtResource("42_a20h8"), ExtResource("43_rhwqj"), ExtResource("44_22b2n")])

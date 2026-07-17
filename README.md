@@ -75,3 +75,22 @@ const COLOR_46_BLACK:Color = Color("2c3030ff")
 [<img width="1165" height="487" alt="image" src="https://github.com/user-attachments/assets/83724750-127d-4929-a4f5-fb356aefd5eb" />](https://godotengine.org/asset-library/asset/5041)   
 https://godotengine.org/asset-library/asset/5041   
 
+
+Color:
+```
+ca75d8,ab3ac0,754bc6,91f6fe,26cfe8,25b0ff,
+ffcee6,ff70a3,fe5348,9bda57,5bc461,24aa9c,
+ffff4c,feab23,ff6836,e8f1f4,8ba5b1,596c78,
+ffe69d,faad55,8d655c,ffffff,b6b6b6,2d2f2f,
+ffff00,ff00ff,00ffff,ff0000,00ff03,0000ff,
+bc7600,d89000,ffbc00,008400,00af00,000000,
+```
+
+|                                               |                                               |                                               |                                               |                                               |                                               |
+| --------------------------------------------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
+| <span style="color:#ca75d8">■</span> `ca75d8` | <span style="color:#ab3ac0">■</span> `ab3ac0` | <span style="color:#754bc6">■</span> `754bc6` | <span style="color:#91f6fe">■</span> `91f6fe` | <span style="color:#26cfe8">■</span> `26cfe8` | <span style="color:#25b0ff">■</span> `25b0ff` |
+| <span style="color:#ffcee6">■</span> `ffcee6` | <span style="color:#ff70a3">■</span> `ff70a3` | <span style="color:#fe5348">■</span> `fe5348` | <span style="color:#9bda57">■</span> `9bda57` | <span style="color:#5bc461">■</span> `5bc461` | <span style="color:#24aa9c">■</span> `24aa9c` |
+| <span style="color:#ffff4c">■</span> `ffff4c` | <span style="color:#feab23">■</span> `feab23` | <span style="color:#ff6836">■</span> `ff6836` | <span style="color:#e8f1f4">■</span> `e8f1f4` | <span style="color:#8ba5b1">■</span> `8ba5b1` | <span style="color:#596c78">■</span> `596c78` |
+| <span style="color:#ffe69d">■</span> `ffe69d` | <span style="color:#faad55">■</span> `faad55` | <span style="color:#8d655c">■</span> `8d655c` | <span style="color:#ffffff">■</span> `ffffff` | <span style="color:#b6b6b6">■</span> `b6b6b6` | <span style="color:#2d2f2f">■</span> `2d2f2f` |
+| <span style="color:#ffff00">■</span> `ffff00` | <span style="color:#ff00ff">■</span> `ff00ff` | <span style="color:#00ffff">■</span> `00ffff` | <span style="color:#ff0000">■</span> `ff0000` | <span style="color:#00ff03">■</span> `00ff03` | <span style="color:#0000ff">■</span> `0000ff` |
+| <span style="color:#bc7600">■</span> `bc7600` | <span style="color:#d89000">■</span> `d89000` | <span style="color:#ffbc00">■</span> `ffbc00` | <span style="color:#008400">■</span> `008400` | <span style="color:#00af00">■</span> `00af00` | <span style="color:#000000">■</span> `000000` |

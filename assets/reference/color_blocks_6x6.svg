@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="6"
+     height="6"
+     viewBox="0 0 6 6"
+     color-profile="sRGB">
+
+  <metadata>
+    <description>
+      6x6 sRGB color palette.
+      Intended for exact color sampling.
+    </description>
+  </metadata>
+
+  <rect x="0" y="0" width="1" height="1" fill="#ca75d8"/>
+  <rect x="1" y="0" width="1" height="1" fill="#ab3ac0"/>
+  <rect x="2" y="0" width="1" height="1" fill="#754bc6"/>
+  <rect x="3" y="0" width="1" height="1" fill="#91f6fe"/>
+  <rect x="4" y="0" width="1" height="1" fill="#26cfe8"/>
+  <rect x="5" y="0" width="1" height="1" fill="#25b0ff"/>
+
+  <rect x="0" y="1" width="1" height="1" fill="#ffcee6"/>
+  <rect x="1" y="1" width="1" height="1" fill="#ff70a3"/>
+  <rect x="2" y="1" width="1" height="1" fill="#fe5348"/>
+  <rect x="3" y="1" width="1" height="1" fill="#9bda57"/>
+  <rect x="4" y="1" width="1" height="1" fill="#5bc461"/>
+  <rect x="5" y="1" width="1" height="1" fill="#24aa9c"/>
+
+  <rect x="0" y="2" width="1" height="1" fill="#ffff4c"/>
+  <rect x="1" y="2" width="1" height="1" fill="#feab23"/>
+  <rect x="2" y="2" width="1" height="1" fill="#ff6836"/>
+  <rect x="3" y="2" width="1" height="1" fill="#e8f1f4"/>
+  <rect x="4" y="2" width="1" height="1" fill="#8ba5b1"/>
+  <rect x="5" y="2" width="1" height="1" fill="#596c78"/>
+
+  <rect x="0" y="3" width="1" height="1" fill="#ffe69d"/>
+  <rect x="1" y="3" width="1" height="1" fill="#faad55"/>
+  <rect x="2" y="3" width="1" height="1" fill="#8d655c"/>
+  <rect x="3" y="3" width="1" height="1" fill="#ffffff"/>
+  <rect x="4" y="3" width="1" height="1" fill="#b6b6b6"/>
+  <rect x="5" y="3" width="1" height="1" fill="#2d2f2f"/>
+
+  <rect x="0" y="4" width="1" height="1" fill="#ffff00"/>
+  <rect x="1" y="4" width="1" height="1" fill="#ff00ff"/>
+  <rect x="2" y="4" width="1" height="1" fill="#00ffff"/>
+  <rect x="3" y="4" width="1" height="1" fill="#ff0000"/>
+  <rect x="4" y="4" width="1" height="1" fill="#00ff03"/>
+  <rect x="5" y="4" width="1" height="1" fill="#0000ff"/>
+
+  <rect x="0" y="5" width="1" height="1" fill="#bc7600"/>
+  <rect x="1" y="5" width="1" height="1" fill="#d89000"/>
+  <rect x="2" y="5" width="1" height="1" fill="#ffbc00"/>
+  <rect x="3" y="5" width="1" height="1" fill="#008400"/>
+  <rect x="4" y="5" width="1" height="1" fill="#00af00"/>
+  <rect x="5" y="5" width="1" height="1" fill="#000000"/>
+
+</svg>
+
