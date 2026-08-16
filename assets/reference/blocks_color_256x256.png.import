@@ -3,17 +3,16 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://chljxywwkgybj"
-path.s3tc="res://.godot/imported/blocks_color_256x256.png-6dc6a72996b81719537cf292e491bbb5.s3tc.ctex"
 path.etc2="res://.godot/imported/blocks_color_256x256.png-6dc6a72996b81719537cf292e491bbb5.etc2.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc", "etc2_astc"],
+"imported_formats": ["etc2_astc"],
 "vram_texture": true
 }
 
 [deps]
 
 source_file="res://addons/2024_10_16_gdp_blocks_color/assets/reference/blocks_color_256x256.png"
-dest_files=["res://.godot/imported/blocks_color_256x256.png-6dc6a72996b81719537cf292e491bbb5.s3tc.ctex", "res://.godot/imported/blocks_color_256x256.png-6dc6a72996b81719537cf292e491bbb5.etc2.ctex"]
+dest_files=["res://.godot/imported/blocks_color_256x256.png-6dc6a72996b81719537cf292e491bbb5.etc2.ctex"]
 
 [params]
 
